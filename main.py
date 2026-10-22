@@ -23,4 +23,3 @@ print("Model Accuracy:", accuracy)
 flower = [[5.1, 3.5, 1.4, 0.2]]
 result = model.predict(flower)
 print("Predicted marks:", iris.target_names[result[0]])
-+
